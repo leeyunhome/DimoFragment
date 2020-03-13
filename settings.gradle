@@ -1,0 +1,2 @@
+rootProject.name='DimoFragment'
+include ':app'
